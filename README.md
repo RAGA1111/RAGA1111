@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**RAGA1111/RAGA1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-# About Me:
+## About Me:
 Hi! I'm RAGA
 A 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi Institute of Technology, deeply passionate about solving real-world problems through Machine Learning and AI. I thrive on coding, data structures & algorithms (DSA), and competitive programming, constantly pushing myself to improve
 
@@ -26,6 +18,3 @@ A 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi Instit
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RAGA1111&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
