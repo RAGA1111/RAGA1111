@@ -3,13 +3,8 @@
 </p>
 
 ## About Me:
-Hi! I'm RAGA
-
-A 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi Institute of Technology, deeply passionate about solving real-world problems through Machine Learning and AI. I thrive on coding, data structures & algorithms (DSA), and competitive programming, constantly pushing myself to improve
-
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raga-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.am40@gmail.com) 
+Hi!
+I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi Institute of Technology, deeply passionate about solving real-world problems through Machine Learning and AI. I thrive on coding, data structures & algorithms (DSA), and competitive programming, constantly pushing myself to improve
 
 # Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,6 +26,8 @@ A 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi Instit
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGA1111&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="RAGA1111's Top Languages"/>
 </p>
 
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raga-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.am40@gmail.com) 
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RAGA1111&limit=5&theme=dark&combine_all_yearly_contributions=true)
