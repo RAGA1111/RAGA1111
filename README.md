@@ -1,4 +1,7 @@
-![Header](./github-header-banner.png)
+<p align="center">
+  <img src="./trexgif.gif" alt="Header" width="100%" style="border-radius: 10px;"/>
+</p>
+
 ## About Me:
 Hi! I'm RAGA
 
