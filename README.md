@@ -10,7 +10,7 @@
 
 
 ## About Me:
-Hi!
+Hey there!
 I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi Institute of Technology, deeply passionate about solving real-world problems through Machine Learning and AI. I thrive on coding, data structures & algorithms (DSA), and competitive programming, constantly pushing myself to improve
 
 
@@ -23,8 +23,6 @@ I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi In
 ![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D4C92?style=for-the-badge&logo=tensorflow&logoColor=00BFFF)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1E90FF?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0096FF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0A74DA?style=for-the-badge&logo=angular&logoColor=white)
@@ -37,18 +35,19 @@ I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi In
 ![Maven](https://img.shields.io/badge/Maven-005F9E?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 
-
-
 ## GitHub Analytics & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAGA1111&show_icons=true&theme=algolia&hide_border=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RAGA1111&theme=algolia&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAGA1111&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF" height="165"/>
+
+  <img src="https://streak-stats.demolab.com?user=RAGA1111&theme=dark&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGA1111&layout=compact&theme=algolia&hide_border=true" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGA1111&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" height="165"/>
 </p>
+
 
 ---
 
@@ -68,10 +67,9 @@ I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi In
 ---
 
 ###  Achievements & Highlights
--  Built **GenAI Period Prediction Band** using **PPG, Thermal & Oximetry sensors**
--  Developed **Mental Health Prediction Model** for early intervention  
--  Created **AI Learning Recommender System** for personalized education
--  Exploring **MERN Stack + AI Integration** for smart apps
+-  Presented idea in IEEE for **GenAI Period Prediction Band** using **PPG, Thermal & Oximetry sensors**
+-  Created **AI Summary Generator** for personalized education
+-  Exploring **MERN Stack + AI Integration** for smart applications
 
 ---
 
