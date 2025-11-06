@@ -26,6 +26,10 @@ I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi In
 ![Pandas](https://img.shields.io/badge/Pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0096FF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0A74DA?style=for-the-badge&logo=angular&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge&logo=chainlink&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-0096FF?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A74DA?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D98BA?style=for-the-badge&logo=mongodb&logoColor=white)
