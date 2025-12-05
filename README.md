@@ -10,7 +10,7 @@
 
 
 ## About Me:
-Hey there!
+Hey!
 I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi Institute of Technology, deeply passionate about solving real-world problems through Machine Learning and AI. I thrive on coding, data structures & algorithms (DSA), and competitive programming, constantly pushing myself to improve
 
 
