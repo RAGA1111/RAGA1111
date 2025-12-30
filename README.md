@@ -1,4 +1,4 @@
-<p align="center">
+<p align = "center">
   <img src="./trexgif.gif" alt="Header" width="100%" style="border-radius: 10px;"/>
 </p>
 
