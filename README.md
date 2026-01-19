@@ -52,8 +52,166 @@ I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi In
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGA1111&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" height="165"/>
 </p>
 
+<h2 align="center"> Competitive Programming</h2>
 
 ---
+
+<table align="center">
+<tr>
+
+<!-- LEETCODE -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-00BFFF?style=for-the-badge&logo=leetcode&logoColor=black" />
+</div>
+
+<br>
+
+**Max Rating:** 1561  
+**Solved:** 410+  
+**Global Percentile:** Top 29.51%  
+**Badges Earned:** 5  
+
+<br>
+
+🔗 [View Profile →](https://leetcode.com/u/RAGA__24/)
+
+</td>
+
+<!-- CODECHEF -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CodeChef-1E90FF?style=for-the-badge&logo=codechef&logoColor=white" />
+</div>
+
+<br>
+
+**Max Rating:** 1554  
+**Star Rating:** ⭐ 2 Star  
+**Solved:** 500+  
+**Global Rank:** 21936  
+
+<br>
+
+🔗 [View Profile →](https://www.codechef.com/users/kit23bam040)
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- CODEFORCES -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Codeforces-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" />
+</div>
+
+<br>
+
+**Max Rating:** 1335  
+**Rank:** Pupil  
+**Solved:** 30+  
+
+<br>
+
+🔗 [View Profile →](https://codeforces.com/profile/kit27.am40)
+
+</td>
+
+<!-- OVERALL STATS -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Overall_Stats-0096FF?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<br>
+
+**Global Rank:** 3867  
+**Contests Attended:** 100+  
+**Total Problems Solved:** 1000+  
+**Active Platforms:** LeetCode · CodeChef · Codeforces  
+
+<br>
+
+🔗 [View Codolio →](https://codolio.com/profile/ragaa)
+
+</td>
+
+</tr>
+</table>
+
+
+---
+<h2 align="center"> Featured Projects</h2>
+
+---
+
+<table>
+<tr>
+
+<!-- PROJECT 1 -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
+
+<div>
+  <div style="height: 4px; width: 70px; background: #00BFFF; border-radius: 2px; margin-bottom: 8px;"></div>
+  <h3 align="center"> Yeatee Studio</h3>
+</div>
+
+A premium **Print-on-Demand (POD)** platform enabling creators to launch and scale their brand instantly — no inventory, no hassle.
+
+**Key Features**  
+- Interactive mockup generator with real-time pricing  
+- Dual-mode system: Creator & Customer dashboards  
+- Automated fulfillment with profit-aware decision logic  
+- Secure authentication with role-based access  
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/TypeScript-1E90FF?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-00BFFF?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-007ACC?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0096FF?style=flat-square&logo=postgresql&logoColor=white" />
+
+🔗 **Repo:** https://github.com/RAGA1111/yeatee-pod
+
+</td>
+
+<!-- PROJECT 2 -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
+
+<div>
+  <div style="height: 4px; width: 70px; background: #00BFFF; border-radius: 2px; margin-bottom: 8px;"></div>
+  <h3 align="center"> Finder</h3>
+</div>
+
+A **full-stack discovery application** built to efficiently locate people, items, or information using a modern frontend, secure backend APIs, and a scalable cloud database.
+
+**Key Features**  
+- Full-stack architecture with frontend + backend separation  
+- Secure authentication using JWT (signup & login)  
+- Protected routes and role-based access control  
+- Fast search with filtering and clean, responsive UI  
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/Vite-1E90FF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-0A74DA?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-007ACC?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0096FF?style=flat-square&logo=mongodb&logoColor=white" />
+
+🔗 **Repo:** https://github.com/RAGA1111/finder-app
+
+</td>
+
+</td>
+
+</tr>
+</table>
 
 
 ### GitHub Activity Heatmap
@@ -63,12 +221,8 @@ I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi In
 
 ---
 
-###  GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAGA1111&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
 
----
+
 
 ###  Achievements & Highlights
 -  Presented idea in IEEE for **GenAI Period Prediction Band** using **PPG, Thermal & Oximetry sensors**
@@ -77,10 +231,7 @@ I'm a 3rd-year Computer Science (AI & ML) student at KIT-KalaignarKarunanidhi In
 
 ---
 
-## Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=RAGA1111&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
----
 
 
 
