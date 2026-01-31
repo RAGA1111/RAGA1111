@@ -225,7 +225,7 @@ A **full-stack discovery application** built to efficiently locate people, items
 
 
 ###  Achievements & Highlights
--  Presented idea in IEEE for **GenAI Period Prediction Band** using **PPG, Thermal & Oximetry sensors**
+-  Presented idea in IEEE for **GenAI Periods Prediction Band** using **PPG, Thermal & Oximetry sensors**
 -  Created **AI Summary Generator** for personalized education
 -  Exploring **MERN Stack + AI Integration** for smart applications
 
