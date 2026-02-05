@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="./trexgif.gif" alt="Header" width="100%" style="border-radius: 10px;"/>
+  <img src="./trexgif.gif" alt="Header" width="100%" style="border-radius: 10 px;"/>
 </p>
 
 
