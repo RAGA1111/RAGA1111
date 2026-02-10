@@ -1,7 +1,7 @@
 <p align = "center">
   <img src="./trexgif.gif" alt="Header" width="100%" style="border-radius: 10 px;"/>
 </p>
-
+ 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Data+Science+Enthusiast;Full+Stack+Learner;Turning+Ideas+into+Reality+" alt="Typing SVG" />
